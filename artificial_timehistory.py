@@ -2,7 +2,7 @@
 """
 Created on Sun Nov 20 17:38:23 2016
 
-@author: HP
+@author: Swopnil Ojha 
 """
 
 """This code creates artificial ground motion time-history based on the works
